@@ -68,15 +68,12 @@ Meskipun R2 Score rendah (yang wajar untuk prediksi perilaku manusia yang komple
 
 ## 📂 Repository Structure
 * `prediksi_sales_gaming.ipynb`: Notebook eksperimen V1 (Legacy).
-* `PreLaunch_Game_Sales_Forecasting_Engine.ipynb`: **[MAIN]** Notebook evolusi V2 dengan metodologi Time-Series.
+* `Game_Sales_Forecasting.ipynb`: **[MAIN]** Notebook evolusi V2 dengan metodologi Time-Series.
 * `PreLaunch_Evolution_Submission.csv`: Hasil prediksi final pada data test.
 * `Train.csv` / `Test.csv`: Dataset mentah.
 
 ## 🚀 How to Run
 1. Clone repository ini.
-2. Buka `PreLaunch_Game_Sales_Forecasting_Engine.ipynb` di Google Colab.
+2. Buka `Game_Sales_Forecasting.ipynb` di Google Colab.
 3. Pastikan dataset (`Train.csv`, `Test.csv`) sudah di-upload.
 4. Jalankan semua sel untuk melihat proses Feature Engineering dan Training.
-
----
-*Created by [Ardho Mihada]*
